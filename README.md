@@ -1,1 +1,1 @@
-# Detectiong-Objects-with-OpenCV-and-YOLOv3-in-Python
+# Detectiong Objects with OpenCV and YOLO v3 in Python
